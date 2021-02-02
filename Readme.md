@@ -1,7 +1,7 @@
 # Личный проект «Нёрдс»
 
 * Студент: [coolfire](https://up.htmlacademy.ru/htmlcss/30/user/1727555).
-* Наставник: `Неизвестно`.
+* Наставник: [Евгений Котов](https://up.htmlacademy.ru/htmlcss/30/user/25083).
 
 ---
 
